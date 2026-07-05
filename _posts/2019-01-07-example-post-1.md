@@ -1,10 +1,12 @@
 ---
-title: Example post 1
-author: sarah-johnson
+title: Location
+author: j+j
 tags:
-  - biology
-  - medicine
-  - big data
+  - location
+  - venue
+  - pie ranch
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+The ceremony and reception will all be taking place at Pie Ranch, in Pescadero, CA. 
+We will be outdoors and this is coastal CA in June, so any weather can happen! Please bring layers and sensible shoes!
+https://www.pieranch.org/
