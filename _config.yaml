@@ -1,6 +1,6 @@
 # site properties and page defaults
 title: Jackie and Jacob's Wedding Website :-)
-subtitle: 
+subtitle: June 13th, 2026 in Pescadero, CA
 description: We're getting married and you're invited!
 header: images/tidescape.jpg
 footer: images/background.jpg
@@ -34,10 +34,10 @@ defaults:
 collections:
   # generate page for each member
   members:
-    output: true
+    output: false
   # generate page for each post
   posts:
-    output: true
+    output: false
 
 # jekyll plugins
 plugins:
