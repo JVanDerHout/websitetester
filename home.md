@@ -1,9 +1,9 @@
 ---
 ---
 
-# JVanDerHout's Website
+# J+J Home 
 
-An engaging 1-3 sentence description of your lab.
+J+J - June 13th, 2026 - Pescadero, CA
 
 {% include section.html %}
 
@@ -16,7 +16,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 {%
   include button.html
   link="research"
-  text="See our publications"
+  text="See our publication"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -61,14 +61,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-{%
-  include button.html
-  link="team"
-  text="Meet our team"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
 
 {% endcapture %}
 
