@@ -7,27 +7,20 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+You are welcome to reach out with questions! 
 
 {%
   include button.html
   type="email"
-  text="jane@smith.com"
-  link="jane@smith.com"
+  text="jandjweddinghotline@gmail.com"
+  link="jandjweddinghotline@gmail.com"
 %}
-{%
-  include button.html
-  type="phone"
-  text="(555) 867-5309"
-  link="+1-555-867-5309"
-%}
+
 {%
   include button.html
   type="address"
-  tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps"
+  tooltip="The wedding will be held at Pie Ranch in Pescadero, CA. The google maps link is below for easy navigation."
+  link="[https://www.google.com/maps](https://www.google.com/maps/place/Pie+Ranch/@37.1321082,-122.3163959,17z/data=!4m6!3m5!1s0x808e55caafeb2abb:0xcf813edfe879e0f3!8m2!3d37.132104!4d-122.313821!16s%2Fg%2F1thw6zd3?entry=ttu&g_ep=EgoyMDI2MDYyOS4wIKXMDSoASAFQAw%3D%3D)"
 %}
 
 {% include section.html %}
