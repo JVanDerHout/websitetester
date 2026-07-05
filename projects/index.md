@@ -1,27 +1,26 @@
 ---
-title: Projects
+title: Things to Do
 nav:
-  order: 2
-  tooltip: Software, datasets, and more
+  order: 5
+  tooltip: More to explore on the coast
 ---
 
-# {% include icon.html icon="fa-solid fa-wrench" %}Projects
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-{% include tags.html tags="publication, resource, website" %}
-
-{% include search-info.html %}
+# {% include icon.html icon="fa-solid fa-cloud-sun" %}Some of Our Favorite Places
 
 {% include section.html %}
 
-## Featured
+## Food & Drink
 
-{% include list.html component="card" data="projects" filter="group == 'featured'" %}
+Downtown Local
+Loma Mar Outpost
+San Gregorio General Store 
+U-Pick Strawberries at Swanton Berry Farm & Blue House Farms
+https://www.swantonberryfarm.com/ (First organic farm in the country to sign a contract with the UFW)
+https://bluehousefarm.com/
 
 {% include section.html %}
 
-## More
+## Hiking & Beaches
 
-{% include list.html component="card" data="projects" filter="!group" style="small" %}
+Butano State Park 
+Bean Hollow State Beach 
