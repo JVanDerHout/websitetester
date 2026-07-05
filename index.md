@@ -1,13 +1,16 @@
 ---
 ---
 
-# J+J Home 
+# Overview
 
-J+J - June 13th, 2026 - Pescadero, CA
+Who: Jacob, Jackie, Friends, Family
+What: A Wedding, Because Why Not!
+Where: Pie Ranch in Pescadero, CA
+When: June 13th, 2026
 
 {% include section.html %}
 
-## Highlights
+## More Info
 
 {% capture text %}
 
@@ -16,7 +19,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 {%
   include button.html
   link="research"
-  text="See our publication"
+  text="RSVP"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
