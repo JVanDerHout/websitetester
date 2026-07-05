@@ -4,7 +4,7 @@ nav:
   order: 1
 ---
 
-# {% include icon.html icon="fa-solid fa-microscope" %}Research
+# {% include icon.html icon="fa-solid fa-envelope" %}RSVP
 
 we understand that travel is hard and life happens, we would love to see you but you are not obligated in any way to attend
 
