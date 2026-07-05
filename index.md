@@ -4,14 +4,14 @@
 
 {% include section.html %}
 
-## More Info
+## Essential Info
 
 {% capture text %}
 
 Who: Jacob, Jackie, Friends, Family <br>
 What: A Wedding, Because Why Not! <br>
 Where: Pie Ranch in Pescadero, CA <br>
-When: June 13th, 2027  <br>
+When: Sunday June 13th, 2027  <br>
 
 {%
   include button.html
