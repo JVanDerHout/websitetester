@@ -8,15 +8,6 @@ nav:
 
 we understand that travel is hard and life happens, we would love to see you but you are not obligated in any way to attend
 
-
 {% include section.html %}
 
-## RSVP Coming Soon
-
-## All
-
-{% include search-box.html %}
-
-{% include search-info.html %}
-
-{% include list.html data="citations" component="citation" style="rich" %}
+## RSVP Coming Soon - If you already know you can't make it, we will miss you but we understand! Please email us at jandjweddinghotline@gmail.com to let us know <3
