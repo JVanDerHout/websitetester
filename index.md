@@ -1,5 +1,8 @@
 ---
 ---
+<p align="center">
+  <img src="images/paddleboarding.jpeg" alt="Paddleboarding" width="600">
+</p>
 
 # Overview
 
