@@ -3,11 +3,7 @@
 # Overview
 
 {% include section.html %}
-
-## Essential Info
-
 {% capture text %}
-
 Who: Jacob, Jackie, Friends, Family <br>
 What: A Wedding, Because Why Not! <br>
 Where: Pie Ranch in Pescadero, CA <br>
