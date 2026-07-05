@@ -11,16 +11,16 @@ nav:
 
 ## Food & Drink
 
-Downtown Local
-Loma Mar Outpost
-San Gregorio General Store 
-U-Pick Strawberries at Swanton Berry Farm & Blue House Farms
-https://www.swantonberryfarm.com/ (First organic farm in the country to sign a contract with the UFW)
-https://bluehousefarm.com/
+Downtown Local <br>
+Loma Mar Outpost <br>
+San Gregorio General Store <br> 
+U-Pick Strawberries at Swanton Berry Farm & Blue House Farms <br>
+https://www.swantonberryfarm.com/ (First organic farm in the country to sign a contract with the UFW) <br>
+https://bluehousefarm.com/ <br>
 
 {% include section.html %}
 
 ## Hiking & Beaches
 
-Butano State Park 
-Bean Hollow State Beach 
+Butano State Park <br>
+Bean Hollow State Beach <br> 
