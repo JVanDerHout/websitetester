@@ -1,12 +1,15 @@
 ---
-title: Get In Touch
+title: Where
 nav:
-  order: 5
-  tooltip: Email, address, and location
+  order: 2
+  tooltip: Coming to Pescadero
 ---
 
-# {% include icon.html icon="fa-regular fa-envelope" %}Contact
+# {% include icon.html icon="fa-solid fa-location-dot" %}The Coast
 
+Placeholder for a write up about place, why we chose it, why it's special, some history, maybe a map or picture
+How to get there from different locations (SFO, east bay, Santa Cruz)
+What weather to expect
 
 {%
   include button.html
