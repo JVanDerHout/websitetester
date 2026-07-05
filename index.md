@@ -3,10 +3,10 @@
 
 # Overview
 
-Who: Jacob, Jackie, Friends, Family
-What: A Wedding, Because Why Not!
-Where: Pie Ranch in Pescadero, CA
-When: June 13th, 2026
+Who: Jacob, Jackie, Friends, Family <br>
+What: A Wedding, Because Why Not! <br>
+Where: Pie Ranch in Pescadero, CA <br>
+When: June 13th, 2026  <br>
 
 {% include section.html %}
 
