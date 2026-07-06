@@ -1,14 +1,13 @@
 ---
-title: Blog
+title: Lodgings
 nav:
   order: 4
-  tooltip: Musings and miscellany
+  tooltip: Where to Stay
 ---
 
-# {% include icon.html icon="fa-solid fa-feather-pointed" %}Blog
+# {% include icon.html icon="fa-solid fa-bed" %}Lodging Options In and Around Pescadero
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Pescadero is about an hour and fifteen minutes outside of San Francisco. You are more than welcome to make the day trip if you would like. However, if you'd like to stay closer and enjoy the coast, there are plenty of options for where to stay in the area. We encourage you to make your arrangements early as we're scheduled for peak travel season. We will be coordinating room blocks at Costanoa - check back soon for more information. See below for more information on lodging options. 
 
 {% include section.html %}
 
