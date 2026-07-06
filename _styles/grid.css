@@ -42,4 +42,43 @@
   display: none;
 }
 
+.grid > * {
+  border-right: 1px solid var(--light-gray);
+  border-bottom: 1px solid var(--light-gray);
+}
+
+.grid > *:nth-child(3n) {
+  border-right: none;
+}
+
+.grid > *:nth-last-child(-n+3) {
+  border-bottom: none;
+}
+
+@media (max-width: 750px) {
+  .grid > *:nth-child(3n) {
+    border-right: 1px solid var(--light-gray);
+  }
+  .grid > *:nth-child(2n) {
+    border-right: none;
+  }
+  .grid > *:nth-last-child(-n+3) {
+    border-bottom: 1px solid var(--light-gray);
+  }
+  .grid > *:nth-last-child(-n+2) {
+    border-bottom: none;
+  }
+}
+@media (max-width: 500px) {
+  .grid > * {
+    border-right: none;
+  }
+  .grid > *:nth-last-child(-n+2) {
+    border-bottom: 1px solid var(--light-gray);
+  }
+  .grid > *:last-child {
+    border-bottom: none;
+  }
+}
+
 /*# sourceMappingURL=grid.css.map */
