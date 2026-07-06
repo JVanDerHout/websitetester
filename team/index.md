@@ -11,26 +11,26 @@ Friday - Dinner in SF for Immediate Family Only <br>
 Saturday - Early Arrivals & Optional Activities <br>
 Sunday - Ceremony, Dinner, Dancing! <br>
 
-{% include section.html background="images/background.jpg" dark=true %}
+{% include section.html background="images/background.jpeg" dark=true %}
 Full Weekend Schedule Below
 {% include section.html %}
 
 {% capture content %}
 ***Friday*** <br>
-IMMEDIATE FAMILY ONLY (if that's you, you'll be told) - Friday Night Dinner @ Jody & Marc's
+6pm - IMMEDIATE FAMILY ONLY - Friday Night Dinner @ Jody & Marc's
 
 ***Saturday*** <br>
-If staying overnight, guest arrival in Pescadero (camping set up can start at X pm if staying at Pie Ranch) <br>
-[add link to lodging page] <br>
-Optional - help us set up for sunday [link for sign ups here] <br>
-Optional - Berry picking <br> 
-Optional - Beach time <br>
+2pm - Guest arrival in Pescadero (camping set up can start at 2 pm if staying at Pie Ranch) <br>
+3:30pm - Optional - help us set up for sunday (sign up here!) <br>
+5:00 pm - Optional - Berry picking at Swanton Berry Farm <br> 
+Optional - Beach time ?? <br>
 
 ***Sunday*** <br>
-Ceremony <br>
-Reception <br>
+Time TBD - Ceremony <br>
+Time TBD - Dinner & Dancing <br>
 
-![Two smiling Californians](images/californians.jpeg)
 {% endcapture %}
 
 {% include grid.html style="square" content=content %}
+
+(images/californians.jpeg)
