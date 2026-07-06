@@ -54,43 +54,66 @@ $one: 500px;
 }
 
 .grid > * {
-  border-right: 1px solid var(--light-gray);
-  border-bottom: 1px solid var(--light-gray);
+  position: relative;
 }
 
-// hide the divider on the rightmost + bottom-row items (3-column default)
-.grid > *:nth-child(3n) {
-  border-right: none;
+// vertical divider, centered in the 40px gap
+.grid > *::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 100%;
+  margin-left: 19px; // (40px gap / 2) - (2px line width / 2)
+  width: 2px;
+  background: var(--gray);
 }
-.grid > *:nth-last-child(-n + 3) {
-  border-bottom: none;
+
+// horizontal divider, centered in the 40px gap
+.grid > *::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 100%;
+  margin-top: 19px;
+  height: 2px;
+  background: var(--gray);
+}
+
+// hide dividers on rightmost/bottom-row items (3-column default)
+.grid > *:nth-child(3n)::after {
+  display: none;
+}
+.grid > *:nth-last-child(-n + 3)::before {
+  display: none;
 }
 
 @media (max-width: $two) {
   // reset 3-column rule, apply 2-column rule instead
-  .grid > *:nth-child(3n) {
-    border-right: 1px solid var(--light-gray);
+  .grid > *:nth-child(3n)::after {
+    display: block;
   }
-  .grid > *:nth-child(2n) {
-    border-right: none;
+  .grid > *:nth-child(2n)::after {
+    display: none;
   }
-  .grid > *:nth-last-child(-n + 3) {
-    border-bottom: 1px solid var(--light-gray);
+  .grid > *:nth-last-child(-n + 3)::before {
+    display: block;
   }
-  .grid > *:nth-last-child(-n + 2) {
-    border-bottom: none;
+  .grid > *:nth-last-child(-n + 2)::before {
+    display: none;
   }
 }
 
 @media (max-width: $one) {
-  // single column: no vertical dividers needed, only horizontal ones between stacked items
-  .grid > * {
-    border-right: none;
+  // single column: no vertical dividers, only horizontal between stacked items
+  .grid > *::after {
+    display: none;
   }
-  .grid > *:nth-last-child(-n + 2) {
-    border-bottom: 1px solid var(--light-gray);
+  .grid > *:nth-last-child(-n + 2)::before {
+    display: block;
   }
-  .grid > *:last-child {
-    border-bottom: none;
+  .grid > *:last-child::before {
+    display: none;
   }
 }
