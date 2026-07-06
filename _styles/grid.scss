@@ -52,3 +52,45 @@ $one: 500px;
 .grid > :where(h1, h2, h3, h4, h5, h6) {
   display: none;
 }
+
+.grid > * {
+  border-right: 1px solid var(--light-gray);
+  border-bottom: 1px solid var(--light-gray);
+}
+
+// hide the divider on the rightmost + bottom-row items (3-column default)
+.grid > *:nth-child(3n) {
+  border-right: none;
+}
+.grid > *:nth-last-child(-n + 3) {
+  border-bottom: none;
+}
+
+@media (max-width: $two) {
+  // reset 3-column rule, apply 2-column rule instead
+  .grid > *:nth-child(3n) {
+    border-right: 1px solid var(--light-gray);
+  }
+  .grid > *:nth-child(2n) {
+    border-right: none;
+  }
+  .grid > *:nth-last-child(-n + 3) {
+    border-bottom: 1px solid var(--light-gray);
+  }
+  .grid > *:nth-last-child(-n + 2) {
+    border-bottom: none;
+  }
+}
+
+@media (max-width: $one) {
+  // single column: no vertical dividers needed, only horizontal ones between stacked items
+  .grid > * {
+    border-right: none;
+  }
+  .grid > *:nth-last-child(-n + 2) {
+    border-bottom: 1px solid var(--light-gray);
+  }
+  .grid > *:last-child {
+    border-bottom: none;
+  }
+}
