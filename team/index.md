@@ -17,20 +17,17 @@ Full Weekend Schedule Below
 
 {% capture content %}
 
-# Friday
-## Friday
+***Friday***
 IMMEDIATE FAMILY ONLY (if that's you, you'll be told) - Friday Night Dinner @ Jody & Marc's
 
-# Saturday
-## Saturday
+***Saturday***
 If staying overnight, guest arrival in Pescadero (camping set up can start at X pm if staying at Pie Ranch) <br>
 [add link to lodging page] <br>
 Optional - help us set up for sunday [link for sign ups here] <br>
 Optional - Berry picking <br> 
 Optional - Beach time <br>
 
-# Sunday
-## Sunday
+***Sunday***
 Ceremony <br>
 Reception <br>
 
