@@ -5,15 +5,7 @@ nav:
   tooltip: The Schedule
 ---
 
-# {% include icon.html icon="fa-regular fa-calendar-days" %}Schedule Overview
-
-Friday - Dinner in SF for Immediate Family Only <br>
-Saturday - Early Arrivals & Optional Activities <br>
-Sunday - Ceremony, Dinner, Dancing! <br>
-
-{% include section.html background="images/background.jpeg" dark=true %}
-Full Weekend Schedule Below
-{% include section.html %}
+# {% include icon.html icon="fa-regular fa-calendar-days" %}Schedule
 
 {% capture content %}
 ***Friday*** <br>
@@ -32,5 +24,3 @@ Time TBD - Dinner & Dancing <br>
 {% endcapture %}
 
 {% include grid.html style="square" content=content %}
-
-(images/californians.jpeg)
