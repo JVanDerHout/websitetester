@@ -1,15 +1,14 @@
 # site properties and page defaults
-title: Jackie and Jacob's Wedding Website :-)
+title: Jacob & Jackie's Wedding Website
 subtitle: June 13th, 2027 in Pescadero, CA
 description: We're getting married and you're invited!
 header: images/tidescape.jpg
-footer: images/tiledbird.jpg
+footer: images/oasis.jpg
 proofer: false
 
 # site social media and other links
 links:
   email: jandjweddinghotline@gmail.com
-  github: JVanDerHout
 
 ### jekyll settings
 
