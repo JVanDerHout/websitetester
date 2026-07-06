@@ -1,34 +1,38 @@
 ---
-title: Team
+title: When
 nav:
   order: 3
-  tooltip: About our team
+  tooltip: The Schedule
 ---
 
-# {% include icon.html icon="fa-solid fa-users" %}Team
+# {% include icon.html icon="fa-regular fa-calendar-days" %}Schedule Overview
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Friday - Dinner in SF for Immediate Family Only
+Saturday - Early Arrivals & Optional Activities
+Sunday - Ceremony, Dinner, Dancing! 
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filter="role == 'pi'" %}
-{% include list.html data="members" component="portrait" filter="role != 'pi'" %}
-
 {% include section.html background="images/background.jpg" dark=true %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Full Weekend Schedule
 
 {% include section.html %}
 
 {% capture content %}
 
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
+# Friday
+IMMEDIATE FAMILY ONLY (if that's you, you'll be told) - Friday Night Dinner @ Jody & Marc's
+
+# Saturday
+If staying overnight, guest arrival in Pescadero (camping set up can start at X pm if staying at Pie Ranch) <br>
+[add link to lodging page] <br>
+Optional - help us set up for sunday [link for sign ups here] <br>
+Optional - Berry picking <br> 
+Optional - Beach time <br>
+
+# Sunday
+Ceremony <br>
+Reception <br>
 
 {% endcapture %}
 
