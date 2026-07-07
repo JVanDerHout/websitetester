@@ -1,1 +1,1 @@
-Sitemap: https://jvanderhout.github.io/websitetester/sitemap.xml
+Sitemap: http://jandjwedding.info/sitemap.xml
