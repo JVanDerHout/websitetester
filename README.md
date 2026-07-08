@@ -5,6 +5,6 @@
 
   # JVanDerHout's Website
 
-  Visit **[jandjwedding.info](http://jandjwedding.info)** 🚀
+  Visit **[jandjwedding.info](https://jandjwedding.info)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
