@@ -51,7 +51,7 @@ header a {
 }
 
 .subtitle {
-  opacity: 0.1;
+  opacity: 1;
   font-weight: var(--thin);
 }
 
