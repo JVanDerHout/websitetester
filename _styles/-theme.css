@@ -29,9 +29,9 @@
   --code: "Roboto Mono", monospace;
   --logo: "Italiana", serif
   // font sizes
-  --large: 1.4rem;
-  --xl: 1.6rem;
-  --xxl: 1.8rem;
+  --large: 1.6rem;
+  --xl: 1.8rem;
+  --xxl: 2 rem;
   --thin: 325;
   --regular: 400;
   --semi-bold: 500;
