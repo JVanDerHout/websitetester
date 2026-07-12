@@ -2,7 +2,7 @@
 ---
 
 $logo-big: 80px;
-$logo: 40px;
+$logo: 50px;
 $big-padding: 100px;
 $collapse: 700px;
 $sticky: true;
@@ -64,7 +64,7 @@ header a {
 
 .subtitle {
   opacity: 1;
-  font-weight: var(--thin);
+  font-weight: var(--bold);
 }
 
 .nav-toggle {
