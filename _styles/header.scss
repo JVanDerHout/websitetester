@@ -56,15 +56,17 @@ header a {
   min-width: 0;
   font-family: var(--title);
   text-align: left;
+  font-size: var(xl)
 }
 
 .title {
-  font-size: var(--large);
+  font-size: var(--xxl);
 }
 
 .subtitle {
   opacity: 1;
   font-weight: var(--bold);
+  font-size: var(--xl);
 }
 
 .nav-toggle {
@@ -76,6 +78,7 @@ header a {
   color: var(--text);
   appearance: none;
   transition: background var(--transition);
+  font-size: var(--xl);
 }
 
 .nav-toggle:after {
