@@ -8,14 +8,13 @@ nav:
 # {% include icon.html icon="fa-regular fa-calendar-days" %}Schedule
 
 {% capture content %}
-***Friday*** <br>
-6pm - IMMEDIATE FAMILY ONLY - Friday Night Dinner @ Jody & Marc's
 
 ***Saturday*** <br>
-2pm - Guest arrival in Pescadero (camping set up can start at 2 pm if staying at Pie Ranch) <br>
-3:30pm - Optional - help us set up for sunday (sign up here!) <br>
-5:00 pm - Optional - Berry picking at Swanton Berry Farm <br> 
-Optional - Beach time ?? <br>
+You are more than welcome to arrive the day before and enjoy the coast! 
+All Saturday activities are **super optional** (well, the whole event is totally optional)
+2pm - Campers staying at Pie Ranch can arrive on site <br>
+3:30pm - Help us set up for Sunday (sign up sheet coming soon-ish) <br>
+5:30 pm - Berry picking, details TBD <br> 
 
 ***Sunday*** <br>
 Time TBD - Ceremony <br>
@@ -23,4 +22,4 @@ Time TBD - Dinner & Dancing <br>
 
 {% endcapture %}
 
-{% include grid.html style="square" content=content %}
+<!-- {% include grid.html style="square" content=content %} -->
