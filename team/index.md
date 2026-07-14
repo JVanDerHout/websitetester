@@ -9,14 +9,14 @@ nav:
 
 <!-- {% capture content %} -->
 
-***Saturday June 12th 2027*** <br>
+## ***Saturday June 12th 2027*** <br>
 You are more than welcome to arrive the day before and enjoy the coast! We won't be providing breakfast or lunch, we are working on a plan to provide dinner to those of you who will be there early :-)
 All Saturday activities are **super optional** (well, the whole event is totally optional)
 2pm - Campers staying at Pie Ranch can arrive on site <br>
 3:30pm - Help us set up for Sunday (sign up sheet coming soon-ish) <br>
 5:30 pm - Berry picking & maybe a taco truck? No promises yet... details TBD <br> 
 
-***Sunday June 13th 2027*** <br>
+## ***Sunday June 13th 2027*** <br>
 Time TBD - Ceremony <br>
 Time TBD - Dinner & Dancing <br>
 
