@@ -5,18 +5,30 @@
   | data_filter: include.filter
 %}
 
-{% assign years = data
-  | group_by_exp: "d", "d.date | date: '%Y'"
-  | sort: "name"
-  | reverse
-%}
+{% assign groupby = include.groupby | default: "date" %}
+{% if groupby == "date" %}
+  {% assign groups = data
+    | group_by_exp: "d", "d.date | date: '%Y'"
+    | sort: "name"
+    | reverse
+  %}
+{% else %}
+  {% assign groups = data
+    | group_by_exp: "d", "d[groupby]"
+    | sort: "name"
+  %}
+{% endif %}
 
-{% for year in years %}
-  {% assign data = year.items %}
+{% for group in groups %}
+  {% assign data = group.items %}
 
-  {% if years.size > 1 %}
-    {{--}}<h3 id="{{ year.name }}">{{ year.name }}</h3>
-    {% assign data = data | sort: "date" | reverse %}
+  {% if groups.size > 1 %}
+    {{--}}<h3 id="{{ group.name }}">{{ group.name }}</h3>
+    {% if groupby == "date" %}
+      {% assign data = data | sort: "date" | reverse %}
+    {% else %}
+      {% assign data = data | sort: "title" %}
+    {% endif %}
   {% endif %}
 
   {% for d in data %}
@@ -39,6 +51,7 @@
       image=d.image
       last_modified_at=d.last_modified_at
       link=d.link
+      location=d.location
       lookup=d.lookup
       name=d.name
       publisher=d.publisher
@@ -46,14 +59,3 @@
       role=d.role
       slug=d.slug
       style=style
-      subtitle=d.subtitle
-      tags=d.tags
-      text=d.text
-      title=d.title
-      tooltip=d.tooltip
-      type=d.type
-      url=d.url
-      width=d.width
-    %}
-  {% endfor %}
-{% endfor %}
