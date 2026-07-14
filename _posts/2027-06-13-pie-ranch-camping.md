@@ -1,7 +1,7 @@
 ---
 title: Camping at Pie Ranch
 date: 2027
-tags:Pescadero, Camping, $
+tags: Pescadero, Camping, $
 location: Pescadero
 ---
 
