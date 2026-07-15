@@ -3,6 +3,7 @@ title: Things to Do
 nav:
   order: 5
   tooltip: More to explore on the coast
+permalink: /AroundPescadero/
 ---
 
 # {% include icon.html icon="fa-solid fa-cloud-sun" %}Some of Our Favorite Places
