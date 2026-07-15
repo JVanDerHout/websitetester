@@ -2,6 +2,7 @@
 title: RSVP
 nav:
   order: 1
+permalink: /RSVP/
 ---
 
 RSVP
