@@ -3,6 +3,7 @@ title: When
 nav:
   order: 3
   tooltip: The Schedule
+permalink: /schedule/
 ---
 # {% include icon.html icon="fa-regular fa-calendar-days" %}Schedule
 
