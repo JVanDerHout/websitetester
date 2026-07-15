@@ -3,6 +3,7 @@ title: Lodgings
 nav:
   order: 4
   tooltip: Where to Stay
+permalink: /lodgings/
 ---
 
 # {% include icon.html icon="fa-solid fa-bed" %}Lodging Options In and Around Pescadero
