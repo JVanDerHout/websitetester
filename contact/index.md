@@ -3,6 +3,7 @@ title: Where
 nav:
   order: 2
   tooltip: Coming to Pescadero
+permalink: /location/
 ---
 
 # {% include icon.html icon="fa-solid fa-location-dot" %}The Coast
