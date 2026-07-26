@@ -22,7 +22,7 @@
 {%
   include feature.html
   image="images/paddleboarding.jpeg"
-  link="research"
+  link="RSVP"
   title="Overview"
   text=text
 %}
