@@ -1,6 +1,6 @@
 ---
 title: San Francisco
-tags: $$ , $$$
+tags: $$ , $$$, Hotel, Home Rental
 location: San Francisco
 ---
 
