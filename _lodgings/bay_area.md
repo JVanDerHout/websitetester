@@ -1,6 +1,6 @@
 ---
 title: San Francisco, Santa Cruz, and Half Moon Bay
-tags: $ , $$, $$$
+tags: $ , $$ , $$$
 location: SF, SC, HMB
 ---
 
