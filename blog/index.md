@@ -20,4 +20,4 @@ Pescadero is about an hour and fifteen minutes outside of San Francisco. You are
 
 {% include search-info.html %}
 
-{% include list.html data="lodgings" component="post-excerpt" groupby="location" %}
+{% include list.html data="lodgings" component="post-full" groupby="location" %}
