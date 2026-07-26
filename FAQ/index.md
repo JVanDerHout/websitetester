@@ -49,5 +49,5 @@ Probably we will at some point, but we don't have one yet (thanks for asking). C
 Please visit <a href="https://jandjwedding2027.com/RSVP">this link</a> for the most current RSVP information.  <br>
 <br>
 ***What time should we arrive, and what's the schedule for the day?*** <br>
-Please visit <a href="https://jandjwedding2027.com/Schedule">this link</a> for the most current schedule information. <br>
+Please visit <a href="https://jandjwedding2027.com/schedule/">this link</a> for the most current schedule information. <br>
 <br>
