@@ -10,5 +10,5 @@ Camping is available for both Saturday and Sunday nights (rate and sign up info 
 If you are camping, just know that there will be portapoties available and **no showers**. <br>
 Pie Ranch also has three small and rustic yurts available for rent. <br>
 
-**Camping spots will be limited, we'll let you know when sign ups are available**
+**Camping spots will be limited, we'll let you know when sign ups are available.**
 
