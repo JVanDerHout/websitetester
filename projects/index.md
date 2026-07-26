@@ -8,7 +8,7 @@ permalink: /AroundPescadero/
 # {% include icon.html icon="fa-solid fa-cloud-sun" %}Some of Our Favorite Places
 {% include section.html %}
 ## Food & Drink
-Downtown Local, Pescadero: restaurant and a nice store with fancy treats and local goodies <br>
+Downtown Local, Pescadero: cafe and a nice store with fancy treats and local goodies <br>
 Loma Mar Outpost, Loma Mar:  general store and cafe <br>
 San Gregorio General Store, San Gregorio: historic general store with a bar and live music <br>
 <a href="https://www.swantonberryfarm.com/">Swanton Berry Farm</a>, Davenport: U Pick strawberries, first organic farm in the country to sign a contract with the UFW <br>
