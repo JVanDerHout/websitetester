@@ -8,10 +8,9 @@ permalink: /lodgings/
 
 # {% include icon.html icon="fa-solid fa-bed" %}Lodging Options In and Around Pescadero
 
-Pescadero is about an hour and fifteen minutes outside of San Francisco. You are more than welcome to make the day trip if you would like. However, if you'd like to stay closer and enjoy the coast, there are plenty of options for where to stay in the area. We encourage you to make your arrangements early as we're scheduled for peak travel season. <br>
-
+***See below an overview of lodging options.*** <br>
 **Please note that we are not coordinating room blocks. We recommend booking at your earliest convinience.** <br>
-***See below for more information on lodging options.*** <br>
+Lodging descriptions are grouped by locaiton. Tags are included to help you find options that fit your location preference and budget. <br>
 
 {% include section.html %}
 
