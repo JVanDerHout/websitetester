@@ -6,16 +6,39 @@ nav:
 # {% include icon.html icon="fa-solid fa-circle-question" %}FAQs
 
 ***What's the dress code?*** <br>
-whatever makes you feel good! no pre-determined levels of fanciness or colors <br>
+whatever makes you feel good! There are no pre-determined levels of fanciness or colors <br>
 wear sensible shoes! you will be walking accross grass and gravel <br>
-see below: weather
+see the below question regarding weather and plan to bring (you guessed it) layers
 
 ***What weather should I expect?*** <br>
-everything will be outside for the most part! <br>
-impossible to predict, bring layers! bring a blanket even! 
+The weather on the coast can be impossible to predict. All we know for sure is that you should bring layers! If you have a particular proclivity for getting cold you could even bring a blanket if you'd like, we will also aim to provide blankets and heat lamps should it get chilly. 
 
-***What accessibility information is there about the venue?*** <br>
-see if pie ranch has a blurb we can use <br>
-the nice people at pie ranch will be available with a fancy golf cart to assist with transport within pie ranch for anyone who needs
+***Where will the ceremony and reception take place? And will it all be outdoors?***
+All Sunday events will take place at Pie Ranch in Pescadero, CA. The ceremony and reception will be held outside very close to one another. All events will be held outdoors, we will have a tent and heat lamps available as a backup if needed. 
 
-**shavuout placeholder question**
+***What accessibility information about the venue is available?*** <br>
+Pie Ranch is a working farm with a variety of uneven surfaces. The ceremony and reception will be held in a grassy area with uneven surfaces very close to one another, about a 5 minute walk away from the parking area. No steps are required to access the area <br>. 
+Our understanding is that getting to and from the ceremony and reception site is largely navigable with a walker or cane but would be difficult (but not impossible) to navigate in a wheelchair. <br>
+Additionally, the very kind people at Pie Ranch will be available with a golf cart to assist with transportation within the ranch for anyone who needs or wants. <br>
+There will be accessible restrooms on site. <br> 
+
+***What meal options will there be for people with dietary restrictions?***
+Please provide us with your dietary restrictions in your RSVP and we'll make sure there is plenty of food that you can eat! At this stage the meals have not yet been planned. 
+
+***What parking is available?***
+There will be parking available on site at Pie Ranch on Sunday. Pie Ranch staff will help direct you to parking places. However, we strongly encourage you to carpool if possible! 
+
+***Is there going to be a shuttle?***
+There will not be a shuttle. Please plan to carpool or drive yourself. 
+
+***Are kids invited?***
+Yes, kids of all ages are more than welcome! 
+
+***I didn't receive a plus one on my invitation but I think I should have, what should I do?***
+Reach out to us at jandjweddinghotline [at] gmail.com and we'll work it out, but please let us know ASAP. 
+
+***I am observing shavuout leading up to the wedding, and I'll be coming from out of town. What are my options?***
+Reach out to Jacob and he can give you the intel.
+
+***Do you have a registry?***
+Probably we will at some point, but we don't have one yet (thanks for asking). Check back again later if you'd like.  
