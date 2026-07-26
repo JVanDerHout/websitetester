@@ -1,6 +1,6 @@
 ---
 title: Camping at Pie Ranch
-tags: Pescadero, Camping, Glamping, $
+tags: Camping, Glamping, $
 location: Pescadero
 ---
 
