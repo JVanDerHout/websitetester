@@ -5,17 +5,18 @@ nav:
   tooltip: The Schedule
 permalink: /schedule/
 ---
-# {% include icon.html icon="fa-regular fa-calendar-days" %}Schedule
+# Schedule
+The wedding will be taking place on Sunday the 13th. However, you are more than welcome to arrive the day before and enjoy the coast. We won't be providing breakfast or lunch on Saturday, but we are working on a plan to provide dinner to those of you who will be there early. We will post more details here as they are available. 
 
 ## {% include icon.html icon="fa-regular fa-calendar-days" %} Saturday June 12th 2027 <br>
-You are more than welcome to arrive the day before and enjoy the coast! We won't be providing breakfast or lunch, we are working on a plan to provide dinner to those of you who will be there early :-)
-All Saturday activities are **super optional** (well, the whole event is totally optional) <br>
-
 **Saturday Schedule** (Subject to Change) <br>
+*All Saturday events are optional*
 2pm - Campers staying at Pie Ranch can arrive on site <br>
-3:30pm - Help us set up for Sunday (sign up sheet coming soon-ish) <br>
-5:30 pm - Berry picking & maybe a taco truck? No promises yet... details TBD <br>
+Afternoon, time tbd - Help us set up for Sunday (sign up sheet coming soon-ish) <br>
+Afternoon, time tbd - Perhaps some berry picking?  <br>
+Evening, time tbd - Dinner event for early arrivals
 
 ## {% include icon.html icon="fa-regular fa-calendar-days" %} Sunday June 13th 2027 <br>
-Time TBD - Ceremony <br>
-Time TBD - Dinner & Dancing <br>
+**Sunday Schedule** (Subject to Change) <br>
+Afternoon, time TBD - Ceremony <br>
+Afternoon, time TBD - Dinner & Dancing <br>
