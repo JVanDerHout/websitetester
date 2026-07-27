@@ -37,3 +37,16 @@ A note on the drive: the roads out to Pescadero can have limited cell service in
 %}
 {% include section.html %}
 {% include section.html dark=true %}
+
+<br>
+# {% include icon.html icon="fa-solid fa-crow" %}A Note on Travel
+
+<p>We know that traveling to be with us has a climate impact. We are not asking you to purchase carbon credits or offsets. Instead, if you would like to do something, we would love for you to consider supporting land and water restoration projects that measurably capture carbon, such as wetland, forest, and soil restoration work. Here are some of the places on our tzedakah list that we plan to donate to, if you feel moved to contribute as well.</p>
+
+<ul>
+  <li>River Partners</li>
+  <li>Caspar Cove Project</li>
+  <li>Blue Mountains Biodiversity Project</li>
+</ul>
+
+<p>Thank you for making the trip to celebrate with us. We are so grateful to have you there.</p>
