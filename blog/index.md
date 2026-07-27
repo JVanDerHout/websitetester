@@ -10,7 +10,7 @@ permalink: /lodgings/
 
 ***See below an overview of lodging options.*** <br>
 **Please note that we are not coordinating room blocks. We recommend booking at your earliest convinience.** <br>
-Lodging descriptions are grouped by locaiton. Tags are included to help you find options that fit your location preference and budget. <br>
+Lodging descriptions are grouped by location. Tags are included to help you find options that fit your location preference and budget. <br>
 
 {% include section.html %}
 
