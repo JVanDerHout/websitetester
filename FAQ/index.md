@@ -10,16 +10,16 @@ Wear sensible shoes, you will be walking across grass and gravel. <br>
 See the below question regarding weather and plan to bring (you guessed it) layers. <br>
 <br>
 ***What weather should I expect?*** <br>
-The weather on the coast can be impossible to predict. All we know for sure is that you should bring layers. If you have a particular proclivity for getting cold you could even bring a blanket if you'd like, we will also aim to provide blankets and heat lamps should it get chilly. <br>
+The weather on the coast can be hard to predict. It could be hot, it could be perfect, and it could be fogged in all on the same day. All we know for sure is that you should bring layers. If you have a particular proclivity for getting cold you could even bring a blanket if you'd like, we will also aim to provide blankets and heat lamps should it get chilly. <br>
 <br>
 ***What will happen in variable weather conditions?*** <br>
 All events will still be held outdoors as planned, with a tent and heat lamps on standby to keep things comfortable in a range of coastal weather patterns. <br>
 <br>
 ***Where will the ceremony and reception take place? And will it all be outdoors?*** <br>
-All Sunday events will take place at Pie Ranch in Pescadero, CA. The ceremony and reception will be held outside very close to one another. <br>
+All Sunday events will take place at Pie Ranch in Pescadero, CA. The ceremony and reception will be held outside. <br>
 <br>
 ***What accessibility information about the venue is available?*** <br>
-Pie Ranch is a working farm with a variety of uneven surfaces. The ceremony and reception will be held in a grassy area with uneven surfaces very close to one another, about a 5 minute walk away from the parking area. No stair steps are required to access the area. <br>
+Pie Ranch is a working farm with a variety of uneven surfaces. The ceremony and reception will be held in a grassy area with uneven surfaces very close to one another, about a 5 minute walk away from the upper parking area. No stair steps are required to access the area. <br>
 Our understanding is that getting to and from the ceremony and reception site is largely navigable with a walker or cane but would be more difficult (but not impossible) to navigate in a wheelchair. <br>
 Additionally, the very kind people at Pie Ranch will be available with a golf cart to assist with transportation within the ranch for anyone who needs or wants it. <br>
 There will be accessible restrooms on site. <br>
