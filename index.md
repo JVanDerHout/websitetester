@@ -10,7 +10,7 @@
 
 {%
   include button.html
-  link="research"
+  link="RSVP"
   text="RSVP"
   icon="fa-solid fa-arrow-right"
   flip=true
