@@ -14,9 +14,10 @@ Pescadero is about an hour south of San Francisco, and there isn't a direct publ
 
 <br>
 **Flying in:** <br>
-&emsp;• <strong>San Francisco (SFO)</strong>, the closest major airport, about 1 hour from Pescadero if there is no traffic. Also the airport with the most direct flight options if you're coming from out of town. <br>
-&emsp;• <strong>San Jose (SJC)</strong>, about 1 hour from Pescadero if there is no traffic, and can be a good alternative if you're planning to stay in Santa Cruz. <br>
-&emsp;• <strong>Oakland (OAK)</strong>, about 1 hour 15 minutes from Pescadero if there is no traffic (but let's be real, that is very unlikely). Sometimes has better fares than SFO. <br>
+&emsp;• <strong>San Francisco (SFO)</strong>, the closest major airport, about 1 hour from Pescadero if there is no traffic*. Also the airport with the most direct flight options if you're coming from out of town. <br>
+&emsp;• <strong>San Jose (SJC)</strong>, about 1 hour from Pescadero if there is no traffic*, and can be a good alternative if you're planning to stay in Santa Cruz. <br>
+&emsp;• <strong>Oakland (OAK)</strong>, about 1 hour 15 minutes from Pescadero if there is no traffic*. Sometimes has better fares than SFO. <br>
+*Traffic is always a possibility<br>
 <br>
 **Driving in from around the Bay Area:** <br>
 &emsp;• From <strong>San Francisco</strong>, about 1 hour and 15 minutes, or more if coming from downtown. <br>
