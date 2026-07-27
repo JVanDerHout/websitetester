@@ -10,7 +10,7 @@ All Sunday events will be held at <a href="https://www.pieranch.org">Pie Ranch</
 Pie Ranch is located at 2080 CA-1, Pescadero, CA 94060.
 Here's a <a href="https://www.google.com/maps/place/Pie+Ranch/@37.1321082,-122.3163959,17z/data=!4m6!3m5!1s0x808e55caafeb2abb:0xcf813edfe879e0f3!8m2!3d37.132104!4d-122.313821!16s%2Fg%2F1thw6zd3?entry=ttu&g_ep=EgoyMDI2MDYyOS4wIKXMDSoASAFQAw%3D%3D"> Google Maps Link </a>.
 ## {% include icon.html icon="fa-solid fa-location-dot" %}Getting to Pie Ranch
-Pescadero is about an hour south of San Francisco, and there isn't a direct public transit option. We encourage you to carpool if you are able, we've put together a spreadsheet so you can self organize carpooling that you can find here: <a href="https://docs.google.com/spreadsheets/d/1qISNxHeqU-xt0q_WihYF-dYldhDTdcBRSSYjWvqUqIQ/edit?usp=sharing"> Carpool Spreadsheet</a>). <br>
+Pescadero is about an hour south of San Francisco, and there isn't a direct public transit option. We encourage you to carpool if you are able, we've put together a spreadsheet so you can self organize carpooling that you can find here: <a href="https://docs.google.com/spreadsheets/d/1qISNxHeqU-xt0q_WihYF-dYldhDTdcBRSSYjWvqUqIQ/edit?usp=sharing"> Carpool Spreadsheet</a>. <br>
 
 <br>
 **Flying in:** <br>
