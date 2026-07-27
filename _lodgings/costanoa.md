@@ -49,7 +49,7 @@ Costanoa offers many different lodging options at a range of prices and is locat
 <p>There are camp sites if you want to bring your own tent. Multiple tents can be pitched on one site.</p>
 <p>The Lighthouse Grove tent village allows 2 to 6 tents per site. The Ohlone Grove Tent Village holds up to 2 tents and has a view.</p>
 
-<p>There are lots of options but we don't have a hold on any rooms so book early if you can!</p>
+**TLDR: There are lots of options but we don't have a hold on any rooms so book early if you can!**
 
 </body>
 </html>
