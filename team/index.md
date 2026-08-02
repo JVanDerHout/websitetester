@@ -1,5 +1,5 @@
 ---
-title: When
+title: Schedule
 nav:
   order: 3
   tooltip: The Schedule
