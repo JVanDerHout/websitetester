@@ -8,6 +8,7 @@ permalink: /RSVP/
 # {% include icon.html icon="fa-solid fa-envelope" %} RSVP
 
 We are looking forward to celebrating with all of you! <br>
+Please RSVP by March 1st 2027! <br>
 
 <div style="text-align: center; margin: 40px 0;">
   <a href="https://script.google.com/macros/s/AKfycbxQzTfsC-3KkZN7DUjK-F-AR4oPSi0SsHW5mFE2j7Sty2ZHre18kIlSi9dJzZhBtmak/exec"
