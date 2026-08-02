@@ -7,6 +7,7 @@ permalink: /AroundPescadero/
 ---
 # {% include icon.html icon="fa-solid fa-cloud-sun" %}Some of Our Favorite Places
 {% include section.html %}
+### Some recommendations for things to do in the area
 ## Food & Drink
 Downtown Local, Pescadero: cafe and a nice store with fancy treats and local goodies <br>
 Loma Mar Outpost, Loma Mar:  general store and cafe <br>
