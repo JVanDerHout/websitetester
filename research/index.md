@@ -19,4 +19,17 @@ Some wedding parties may have been sent a save the date to just one email addres
   </a>
 </div>
 
-{% include feature.html image="images/doublerainbow.jpeg"%}
+<div class="rainbow-feature">
+{% include feature.html image="images/doublerainbow.jpeg" title="Double Rainbow" %}
+</div>
+
+<style>
+.rainbow-feature .feature-image {
+  aspect-ratio: auto;   /* let the box match the image's real proportions */
+}
+.rainbow-feature .feature-image img {
+  height: auto;
+  object-fit: contain;
+  margin: 0 auto;       /* center it if there's leftover space */
+}
+</style>
