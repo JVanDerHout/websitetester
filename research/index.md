@@ -20,7 +20,7 @@ Some wedding parties may have been sent a save the date to just one email addres
 </div>
 
 <div class="rainbow-feature">
-{% include feature.html image="images/doublerainbow.jpeg" title="Double Rainbow" %}
+{% include feature.html image="images/doublerainbow.jpeg"%}
 </div>
 
 <style>
