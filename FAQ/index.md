@@ -20,8 +20,8 @@ All Sunday events will take place at Pie Ranch in Pescadero, CA. The ceremony an
 <br>
 ***What accessibility information about the venue is available?*** <br>
 Pie Ranch is a working farm with a variety of uneven surfaces. The ceremony and reception will be held in a grassy area with uneven surfaces very close to one another, about a 5 minute walk away from the upper parking area. No stair steps are required to access the area. <br>
-Our understanding is that getting to and from the ceremony and reception site is largely navigable with a walker or cane but would be more difficult (but not impossible) to navigate in a wheelchair. <br>
-Additionally, the very kind people at Pie Ranch will be available with a golf cart to assist with transportation within the ranch for anyone who needs or wants it. <br>
+Our understanding is that getting to and from the ceremony and reception site is largely navigable with a walker or cane, and would be navigable but somewhat bumpy in a wheelchair. <br>
+For those needing additional accommodations, cars can drop people off closer to the ceremony and reception site if needed on a limited basis. Additionally, the very kind people at Pie Ranch will be available with a golf cart to assist with transportation within the ranch for anyone who needs or wants it. <br>
 There will be accessible restrooms on site. <br>
 <br>
 ***What meal options will there be for people with dietary restrictions?*** <br>
