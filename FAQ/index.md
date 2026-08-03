@@ -4,6 +4,11 @@ nav:
   order: 6
 ---
 # {% include icon.html icon="fa-solid fa-circle-question" %}FAQs
+***Are kids invited?*** <br>
+Yes, babies and kids are more than welcome!
+Your adult children will receive their own invitation if invited. Please reach out to us if you are unsure & we hope you understand. We love your dogs but please do not bring them (seriously, please don't). 
+<br>
+<br>
 ***What's the dress code?*** <br>
 Whatever makes you feel good! There are no predetermined levels of fanciness or colors. <br>
 Wear sensible shoes, you will be walking across grass and gravel. <br>
@@ -32,11 +37,6 @@ There will be parking available on site at Pie Ranch on Sunday. Pie Ranch staff 
 <br>
 ***Is there going to be a shuttle?*** <br>
 There will not be a shuttle. Please plan to <a href="https://docs.google.com/spreadsheets/d/1qISNxHeqU-xt0q_WihYF-dYldhDTdcBRSSYjWvqUqIQ/edit?usp=sharing"> Carpool</a> or drive yourself. <br>
-<br>
-***Are kids invited?*** <br>
-Yes, human kids of are more than welcome!
-Your adult children will receive their own invitation if invited. Please reach out to us if you are unsure & we hope you understand. We love your dogs but please do not bring them (seriously, please don't). 
-<br>
 <br>
 ***I am observing Shavuot leading up to the wedding, and I'll be coming from out of town. What are my options?*** <br>
 Reach out to Jacob and he can give you the intel. <br>
