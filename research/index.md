@@ -19,4 +19,4 @@ Some wedding parties may have been sent a save the date to just one email addres
   </a>
 </div>
 
-{% include feature.html image="images/doublerainbow.jpeg" link="RSVP" title="Overview" text=text %}
+{% include feature.html image="images/doublerainbow.jpeg"%}
