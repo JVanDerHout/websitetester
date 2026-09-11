@@ -5,6 +5,7 @@ location: Pescadero
 ---
 You are welcome to camp out with us at Pie Ranch! <br>
 Camping is available at Pie Ranch for $25 per night, and is available for both Saturday and Sunday nights. <br>
+If that amount isn't accessible to you and you would still like to camp just let us know. <br?
 
 
 <div style="text-align: center; margin: 40px 0;">
@@ -24,7 +25,7 @@ Camping is available at Pie Ranch for $25 per night, and is available for both S
     <li> Smaller RVs and truck/van camping are welcome </li>
     <li> Bring your own water jugs (which can be filled at the ranch if needed)</li>
     <li> There are no showers</li>
-    <li> Plan to bring your own camp kitchens for Sunday breakfast and lunch or go into town</li>
+    <li> We'll plan to have some breakfast foods and DIY sandwich materials for Sunday, but you are welcome to bring your own camp kitchens for breakfast and lunch or go into town</li>
     <li> There will be portapoties available as on-site bathrooms</li>
   </ul>
 </div>
