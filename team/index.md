@@ -6,7 +6,7 @@ nav:
 permalink: /schedule/
 ---
 # Schedule
-The wedding will be taking place on Sunday the 13th. However, you are welcome to arrive the day before and enjoy the coast. We won't be providing breakfast or lunch on Saturday the 12th, but we are working on a plan to provide dinner to those of you who will be there early. We will post more details here as they are available. 
+The wedding will be taking place on Sunday the 13th. However, you are welcome to arrive the day before and enjoy the coast. We are working on a casual Saturday evening dinner event and will update here with the details once finalized. For those of you camping at Pie Ranch, we are also working on providing very casual Sunday breakfast and lunch supplies, but you are welcome to bring your own camp kitchen for those Sunday meals. Sunday evening we will all have dinner together! 
 <style>
 .schedule-day {
   margin-bottom: 2rem;
@@ -39,9 +39,9 @@ The wedding will be taking place on Sunday the 13th. However, you are welcome to
 
 <div class="schedule-day">
 
-## {% include icon.html icon="fa-regular fa-calendar-days" %} Saturday June 12th 2027
+{% include icon.html icon="fa-regular fa-calendar-days" %} Saturday June 12th 2027
 
-**Saturday Schedule** (Subject to Change)
+Saturday Schedule (Subject to Change)
 <p class="schedule-note">All Saturday events are optional</p>
 
 <ul class="schedule-list">
@@ -54,9 +54,9 @@ The wedding will be taking place on Sunday the 13th. However, you are welcome to
 
 <div class="schedule-day">
 
-## {% include icon.html icon="fa-regular fa-calendar-days" %} Sunday June 13th 2027
+{% include icon.html icon="fa-regular fa-calendar-days" %} Sunday June 13th 2027
 
-**Sunday Schedule** (Subject to Change)
+Sunday Schedule (Subject to Change)
 
 <ul class="schedule-list">
   <li><span class="schedule-time">Morning, time TBD</span> Casual breakfast for Pie Ranch campers (think fruit, muffins, yogurt...) and sandwich making supplies</li>
